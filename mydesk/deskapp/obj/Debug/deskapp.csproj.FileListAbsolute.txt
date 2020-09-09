@@ -1,0 +1,16 @@
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\deskapp.exe.config
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\deskapp.exe
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\deskapp.pdb
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.csprojAssemblyReference.cache
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.Form1.resources
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.Properties.Resources.resources
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.csproj.GenerateResource.cache
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.csproj.CoreCompileInputs.cache
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.exe
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.pdb
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.Form2.resources
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\MySql.Data.dll
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\Google.Protobuf.dll
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\bin\Debug\MySql.Data.xml
+C:\Users\Rehan\Documents\Visual Studio 2017\Projects\mydesk\deskapp\obj\Debug\deskapp.csproj.CopyComplete
